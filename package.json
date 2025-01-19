@@ -1,0 +1,16 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "description": "Create automated tests for assessment testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js",
+    "report": "npx mocha --reporter spec tests/positive/login.test.js"
+  },
+  "author": "Akbar Saputra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
