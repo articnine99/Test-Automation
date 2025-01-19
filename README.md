@@ -1,7 +1,6 @@
 # Automasi Pengujian Selenium untuk Halaman Login https://dev.to/enter
 
-Repositori ini berisi pengujian automasi untuk memvalidasi fungsionalitas login pada aplikasi web menggunakan Selenium WebDriver, Mocha, dan JavaScript. 
-Pengujian ini mencakup skenario untuk memvalidasi field yang wajib diisi, validasi format email, dan mengambil screenshot ketika pengujian gagal.
+Repositori ini berisi pengujian automasi untuk memvalidasi fungsionalitas login pada aplikasi web menggunakan Selenium WebDriver, Mocha, dan JavaScript.
 
 # DAFTAR ISI
 * [Setup Projek](#setup-projek)
